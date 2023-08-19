@@ -1,0 +1,1 @@
+INSERT INTO user1 (`name`, `age`) VALUES ("阿东东", 22);
